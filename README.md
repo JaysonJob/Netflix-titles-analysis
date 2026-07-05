@@ -89,7 +89,7 @@ The project follows a clean → model → analyze → visualize pipeline.
 The catalog totals 8,807 titles, split roughly 70/30 between Movies (69.62%) and TV Shows (30.38%). Titles are sourced from 87 countries. Catalog growth climbed steadily from 2008, accelerated sharply after 2014, peaked around 2019 at just over 2,000 titles added, and has declined for two consecutive years since. Dramas, Documentaries, and Stand-Up Comedy are the most represented genres, and TV-MA is by far the most common content rating, followed by TV-14 - confirming the catalog skews toward mature audiences.
 
 ### Dashboard 2 - Duration & Seasonal Patterns
-
+![alt text](https://github.com/JaysonJob/Netflix-titles-analysis/blob/ac97cde980fa7e75271ef5d6ccf882cf2dfe61f3/dashboard%202.png)
 
 The longest movie in the catalog runs 312 minutes, with an average movie duration of 99.58 minutes - close to a typical feature-length runtime. Content additions by month show a consistent pattern across the year for both Movies and TV Shows, with no single month dramatically outpacing the others. Looking at director output by genre, Dramas & International, Documentaries, and Stand-Up Comedy account for the highest director counts, reinforcing those as Netflix's most heavily produced genres.
 
