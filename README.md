@@ -1,7 +1,9 @@
 # Netflix Titles Analysis
 
 End-to-end analysis of 8,807 Netflix titles (movies and TV shows) built with PostgreSQL and Power BI.
+This project uses the **Netflix Movies and TV Shows** dataset from Kaggle.
 
+- **Source:** [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) by Shivam Bansal
 ## What's Inside
 
 - **SQL** - data cleaning, view creation, and business-question queries
