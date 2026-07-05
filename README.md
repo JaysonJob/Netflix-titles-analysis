@@ -84,7 +84,8 @@ The project follows a clean → model → analyze → visualize pipeline.
 ## Dashboards
 
 ### Main Dashboard — Catalog Composition, Growth & Ratings
-![alt](r"C:\Users\Administrator\Documents\Netflix analysis\analysis dashboard.png")
+![alt text]("C:\Users\Administrator\Documents\Netflix analysis\analysis dashboard.png")
+
 
 The catalog totals 8,807 titles, split roughly 70/30 between Movies (69.62%) and TV Shows (30.38%). Titles are sourced from 87 countries. Catalog growth climbed steadily from 2008, accelerated sharply after 2014, peaked around 2019 at just over 2,000 titles added, and has declined for two consecutive years since. Dramas, Documentaries, and Stand-Up Comedy are the most represented genres, and TV-MA is by far the most common content rating, followed by TV-14 - confirming the catalog skews toward mature audiences.
 
