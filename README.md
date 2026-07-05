@@ -99,7 +99,7 @@ The longest movie in the catalog runs 312 minutes, with an average movie duratio
 This report looks at what's on Netflix and how it's growing, covering total titles, content types, countries of origin, viewer ratings, and genres. Netflix has 8,807 titles, about 70% of them movies, sourced from 87 countries - though nearly half of all titles come from just the United States and India. Growth peaked in 2019 at 2,016 titles, then dropped for two years straight to 1,498 in 2021. TV-MA and TV-14 make up more than 60% of all content, showing a lean toward older teens and adults, while family and niche genres are comparatively thin. The report flags a clear opportunity to investigate the recent growth slowdown, and to assess whether the current U.S./India-heavy, mature-rated content mix aligns with plans to reach more international and family viewers.
 
 ### Key Insights & Recommendations
-![Key Insights and Recommendations](images/insights_and_recomendations.png)
+![alt text](https://github.com/JaysonJob/Netflix-titles-analysis/blob/7acf15fe9e462d12b41d5d60004d83fc2df49f22/insights%20and%20recomendations.png)
 
 **Key Insights:**
 1. Netflix added the most titles in 2019 (2,016), but additions dropped every year after — down to 1,879 in 2020 and 1,498 in 2021.
