@@ -94,7 +94,7 @@ The catalog totals 8,807 titles, split roughly 70/30 between Movies (69.62%) and
 The longest movie in the catalog runs 312 minutes, with an average movie duration of 99.58 minutes - close to a typical feature-length runtime. Content additions by month show a consistent pattern across the year for both Movies and TV Shows, with no single month dramatically outpacing the others. Looking at director output by genre, Dramas & International, Documentaries, and Stand-Up Comedy account for the highest director counts, reinforcing those as Netflix's most heavily produced genres.
 
 ### Executive Report
-
+![alt text](https://github.com/JaysonJob/Netflix-titles-analysis/blob/71a75315607088b47f3b2903b95870a9d6869a7e/executive%20report.png)
 
 This report looks at what's on Netflix and how it's growing, covering total titles, content types, countries of origin, viewer ratings, and genres. Netflix has 8,807 titles, about 70% of them movies, sourced from 87 countries - though nearly half of all titles come from just the United States and India. Growth peaked in 2019 at 2,016 titles, then dropped for two years straight to 1,498 in 2021. TV-MA and TV-14 make up more than 60% of all content, showing a lean toward older teens and adults, while family and niche genres are comparatively thin. The report flags a clear opportunity to investigate the recent growth slowdown, and to assess whether the current U.S./India-heavy, mature-rated content mix aligns with plans to reach more international and family viewers.
 
